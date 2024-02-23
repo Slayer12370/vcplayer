@@ -14,37 +14,37 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "21007450",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "b86c382f42b509d911c7bca27855754f",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6895120362:AAGLliJVdI8hUwfdwuAWDJ4dag_ots9Pe-0",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://adsbot7:GN64jppvEQkXQoRH@cluster0.sufukjr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "5644806899",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @BRANDEDSTRINGSESSION_BOT on Telegram.",
-        "value": "",
+        "value": "BQFAjFoAGIDglN41UXSsssNOzUqw6TaAyjnMt-QXuHPjeEUJpo6K39T-zzDCUTiCHL-pOpUV5bLDpAMiM5p0JS3sjroUPt6pGM5VgoyfC9JB8pddrRt49F12h9DHDC783zED69SmfoOgeEUxCwQruwhTq2CIH1c5DToP7l7Tko_LqyQ-HZPaEqo4iHIgFcwJMrYr4Y7c427EpjIX0Ax0s58fwF6ErtOxT6cYsVT42g3a_A-5zxNg8oHCH2IJ1JzIQnDCSKbEsaPoCERnXOSgZTq3ZGOWZf241B1ja6iF0m-4J-68D5lHONDe3Vy-LMFUMomOFe-c3u-DZZ_TvnnqqjBo7HE1yQAAAABxbTkGAA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "668e8978-6291-43c8-a775-06a3941baa8",
         "required": false
       },
       "HEROKU_APP_NAME": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Don't Add Channel's ID.",
-        "value": "",
+        "value": "-1001848459006",
         "required": true
       }
     },
