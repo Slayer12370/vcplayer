@@ -86,7 +86,7 @@ START_IMG_URL = getenv(
     "START_IMG_URL", "https://telegra.ph/file/075249676802cfb60f210.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/68896b9d5b97252c68f64.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/6f7ef59ad200f7d9ac596.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/568b292063504617f5adf.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/a2939756cee46fcb86e91.jpg"
@@ -99,7 +99,6 @@ SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/bce96f5e5d732859675f8.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/ba39a10ba20736f42f202.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/568b292063504617f5adf.jpg"
 ALIVE_IMG_URL = "https://telegra.ph/file/cef2a875f046aa5ce91c7.jpg"
-PING_IMG_URL = "https://telegra.ph/file/6f7ef59ad200f7d9ac596.jpg"
 
 def time_to_seconds(time):
     stringt = str(time)
