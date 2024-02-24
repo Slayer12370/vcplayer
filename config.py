@@ -98,6 +98,7 @@ YOUTUBE_IMG_URL = "https://te.legra.ph/file/ba98bbedea3a7419b0612.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/bce96f5e5d732859675f8.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/ba39a10ba20736f42f202.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/568b292063504617f5adf.jpg"
+ALIVE_IMG_URL = "https://telegra.ph/file/cef2a875f046aa5ce91c7.jpg"
 
 
 def time_to_seconds(time):
