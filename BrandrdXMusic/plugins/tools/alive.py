@@ -6,8 +6,8 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
 @app.on_message(filters.command(["alive"]))
 async def start(client: Client, message: Message):
-    await message.reply_video(
-        video=f"https://graph.org/file/e999c40cb700e7c684b75.mp4",
+    await message.reply_photo(
+            photo=config.ALIVE_IMG_URL,
         caption=f"<b>ʜᴇʏ</b> {message.from_user.mention}\n\n🔮 ɪ ᴀᴍ ᴀʟɪᴠᴇ!",
         reply_markup=InlineKeyboardMarkup(
             [
