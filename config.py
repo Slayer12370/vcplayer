@@ -92,14 +92,14 @@ PLAYLIST_IMG_URL = "https://te.legra.ph/file/568b292063504617f5adf.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/a2939756cee46fcb86e91.jpg"
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/e703dbcf744bda6e6c673.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/c28d089437c4be9a2db89.jpg"
-STREAM_IMG_URL = "https://te.legra.ph/file/68896b9d5b97252c68f64.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/6ede5032137d01c43f9e5.jpg"
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/879bddbe943cfc1d20cb5.jpg"
 YOUTUBE_IMG_URL = "https://te.legra.ph/file/ba98bbedea3a7419b0612.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/bce96f5e5d732859675f8.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/ba39a10ba20736f42f202.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/568b292063504617f5adf.jpg"
 ALIVE_IMG_URL = "https://telegra.ph/file/cef2a875f046aa5ce91c7.jpg"
-
+PING_IMG_URL = "https://telegra.ph/file/6f7ef59ad200f7d9ac596.jpg"
 
 def time_to_seconds(time):
     stringt = str(time)
