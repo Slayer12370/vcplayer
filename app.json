@@ -1,5 +1,5 @@
 {
-    "name": "xVideoPlayer",
+    "name": "MusicPlayer",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/62fa7c81c56c1ae31c844.jpg",
     "keywords": [
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "21007450",
+        "value": "29151945",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "b86c382f42b509d911c7bca27855754f",
+        "value": "bd895647096715679ab4e425ab76b69f",
         "required": true
       },
       "BOT_TOKEN": {
@@ -39,7 +39,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @BRANDEDSTRINGSESSION_BOT on Telegram.",
-        "value": "BQFAjFoAGIDglN41UXSsssNOzUqw6TaAyjnMt-QXuHPjeEUJpo6K39T-zzDCUTiCHL-pOpUV5bLDpAMiM5p0JS3sjroUPt6pGM5VgoyfC9JB8pddrRt49F12h9DHDC783zED69SmfoOgeEUxCwQruwhTq2CIH1c5DToP7l7Tko_LqyQ-HZPaEqo4iHIgFcwJMrYr4Y7c427EpjIX0Ax0s58fwF6ErtOxT6cYsVT42g3a_A-5zxNg8oHCH2IJ1JzIQnDCSKbEsaPoCERnXOSgZTq3ZGOWZf241B1ja6iF0m-4J-68D5lHONDe3Vy-LMFUMomOFe-c3u-DZZ_TvnnqqjBo7HE1yQAAAABxbTkGAA",
+        "value": "BQG80skAKGVgtWKVfhFarlKMf4Op1m_CLI-cKK6wGp7Ap0N02OlMWZ2YxW9uQiBnxbVcrrKGET3yfQuXKC2RqQYmTh2Bl1fIqCXl8EQZvoiNqTextE9I3y0K8YE309oo72wVHi3D054vHTpdVWk2m73BJtb0EXfw4qjS4P6DH_eBrvGV6pm_mGad-i_rwEJ_9VdWGhHN16lUD-0Wrs3Lk8pkFVlrdCYsSlDCVYEf5OIv8JR6yUlloUf0cgWEa1u2myaIksoKbRw9u8gkR9qlB0843-L7OQtYR-GpEjXyDESlIfD81nqlXI4wwzNpLJKtXoUmS9oG7232s-iZmsHG_Q_gxcI3LQAAAAGNPpGdAA",
         "required": true
       },
       "HEROKU_API_KEY": {
